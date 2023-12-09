@@ -421,7 +421,7 @@ body.offcanvas {
 
 .heading-meta {
   margin-bottom: 15px;
-  margin-bottom: -50px;
+  margin-bottom: 0px;
   display: block;
   font-size: 10px;
   text-transform: uppercase;
